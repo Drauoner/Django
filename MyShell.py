@@ -16,3 +16,5 @@ entries = topic.entry_set.order_by("-date_added")
 
 for e in entries:
     print(e)
+
+
